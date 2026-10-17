@@ -1,0 +1,41 @@
+﻿SubStructure_ID,SubStructure_Name,Parent_Network_ID,Postal_Code,Town,County,Region
+SUB001,Afya Ukunda Branch,NET01,80400,Ukunda,Kwale,Coast
+SUB002,Afya Siaya Branch,NET01,40600,Siaya,Siaya,Nyanza
+SUB003,Afya Kapsabet Branch,NET01,30300,Kapsabet,Nandi,Rift Valley
+SUB004,Afya Bomet Branch,NET01,20400,Bomet,Bomet,Rift Valley
+SUB005,Jamii Lodwar Branch,NET02,30500,Lodwar,Turkana,Rift Valley
+SUB006,Jamii Homa Bay Branch,NET02,40300,Homa Bay,Homa Bay,Nyanza
+SUB007,Jamii Iten Branch,NET02,30700,Iten,Elgeyo Marakwet,Rift Valley
+SUB008,Jamii Nanyuki Branch,NET02,10400,Nanyuki,Laikipia,Rift Valley
+SUB009,Uzima Wajir Branch,NET03,70200,Wajir,Wajir,North Eastern
+SUB010,Uzima Kisii Branch,NET03,40200,Kisii,Kisii,Nyanza
+SUB011,Uzima Kericho Branch,NET03,20200,Kericho,Kericho,Rift Valley
+SUB012,Uzima Mombasa Branch,NET03,80100,Mombasa,Mombasa,Coast
+SUB013,Tumaini Marsabit Branch,NET04,60500,Marsabit,Marsabit,Eastern
+SUB014,Tumaini Voi Branch,NET04,80300,Voi,Taita Taveta,Coast
+SUB015,Tumaini Chuka Branch,NET04,60400,Chuka,Tharaka Nithi,Eastern
+SUB016,Tumaini Kiambu Branch,NET04,00900,Kiambu,Kiambu,Central
+SUB017,Neema Thika Branch,NET05,01000,Thika,Kiambu,Central
+SUB018,Neema Migori Branch,NET05,40400,Migori,Migori,Nyanza
+SUB019,Neema Kerugoya Branch,NET05,10300,Kerugoya,Kirinyaga,Central
+SUB020,Neema Nyeri Branch,NET05,10100,Nyeri,Nyeri,Central
+SUB021,Baraka Meru Branch,NET06,60200,Meru,Meru,Eastern
+SUB022,Baraka Nyahururu Branch,NET06,20300,Nyahururu,Laikipia,Rift Valley
+SUB023,Baraka Kitui Branch,NET06,90200,Kitui,Kitui,Eastern
+SUB024,Baraka Nyamira Branch,NET06,40500,Nyamira,Nyamira,Nyanza
+SUB025,Imani Murang'a Branch,NET07,10200,Murang'a,Murang'a,Central
+SUB026,Imani Kakamega Branch,NET07,50100,Kakamega,Kakamega,Western
+SUB027,Imani Nairobi Branch,NET07,00100,Nairobi,Nairobi,Nairobi
+SUB028,Imani Busia Branch,NET07,50400,Busia,Busia,Western
+SUB029,Faraja Bungoma Branch,NET08,50200,Bungoma,Bungoma,Western
+SUB030,Faraja Nakuru Branch,NET08,20100,Nakuru,Nakuru,Rift Valley
+SUB031,Faraja Kisumu Branch,NET08,40100,Kisumu,Kisumu,Nyanza
+SUB032,Faraja Embu Branch,NET08,60100,Embu,Embu,Eastern
+SUB033,Mwangaza Machakos Branch,NET09,90100,Machakos,Machakos,Eastern
+SUB034,Mwangaza Vihiga Branch,NET09,50300,Vihiga,Vihiga,Western
+SUB035,Mwangaza Narok Branch,NET09,20500,Narok,Narok,Rift Valley
+SUB036,Mwangaza Malindi Branch,NET09,80200,Malindi,Kilifi,Coast
+SUB037,Pwani Westlands Branch,NET10,00800,Westlands,Nairobi,Nairobi
+SUB038,Pwani Garissa Branch,NET10,70100,Garissa,Garissa,North Eastern
+SUB039,Pwani Kitale Branch,NET10,30200,Kitale,Trans Nzoia,Rift Valley
+SUB040,Pwani Eldoret Branch,NET10,30100,Eldoret,Uasin Gishu,Rift Valley
